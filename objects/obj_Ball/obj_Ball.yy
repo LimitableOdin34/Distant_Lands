@@ -1,8 +1,8 @@
 {
-    "id": "d23f1e03-32a3-41fc-85f1-f1ef24d58f5f",
+    "id": "876b9b55-1024-43c6-9a63-69268a338f73",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_paddle",
+    "name": "obj_Ball",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "068c562d-2d6e-4105-8c22-baf67a43631a",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
