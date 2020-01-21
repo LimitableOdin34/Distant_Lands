@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "a2a4e00a-a548-418f-8f3a-7c1c48b68c8c",
+            "Value": {
+                "id": "fa6f3103-b13e-4292-9d58-95bdd690ab18",
+                "resourcePath": "objects\\obj_killbox\\obj_killbox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a5dd6148-8505-4a44-ae97-45ea0aef23bd",
             "Value": {
                 "id": "8917d4e0-a869-4f56-be12-bc4e3471247b",
