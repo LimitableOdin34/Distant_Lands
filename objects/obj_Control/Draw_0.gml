@@ -7,7 +7,7 @@ draw_set_halign(fa_middle);
 draw_sprite(spr_lives, 0,
 _x,
 5);
-_x += 55;
+_x += 33;
 };
 
 //Score Text and its position
