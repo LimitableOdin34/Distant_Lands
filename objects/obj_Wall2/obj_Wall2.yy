@@ -1,10 +1,19 @@
 {
-    "id": "6589a4d9-1f5e-43c2-aeb9-6e33a0581d85",
+    "id": "cfae6dc3-302e-493d-9732-a7b3d2e642a2",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_Brick",
+    "name": "obj_Wall2",
     "eventList": [
-        
+        {
+            "id": "e8bde987-2b63-413c-8629-152c95b23457",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "155d6c58-1bd4-4eed-9fc4-a7070cf75b32",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "cfae6dc3-302e-493d-9732-a7b3d2e642a2"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "749ecc4b-f1e9-4035-8160-be2c71df7250",
+    "spriteId": "14c4c351-8f56-45e6-8c53-6fa808730b7d",
     "visible": true
 }
