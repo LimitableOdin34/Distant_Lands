@@ -4,7 +4,36 @@
     "mvc": "1.0",
     "name": "obj_Paddle",
     "eventList": [
-        
+        {
+            "id": "a16eaad3-2d0b-4c4e-8a06-787bf55d6dcc",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 39,
+            "eventtype": 5,
+            "m_owner": "5d00e80c-edee-4f32-9ba6-6a1d977787c5"
+        },
+        {
+            "id": "f9947db0-8526-4a4b-ae0c-5ba946967391",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 37,
+            "eventtype": 5,
+            "m_owner": "5d00e80c-edee-4f32-9ba6-6a1d977787c5"
+        },
+        {
+            "id": "41277ba3-f17e-4aa9-a150-9d8aeb223d36",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "5d00e80c-edee-4f32-9ba6-6a1d977787c5"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
