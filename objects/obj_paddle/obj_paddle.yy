@@ -1,5 +1,5 @@
 {
-    "id": "38dd2f19-a854-4f2b-95ae-73a1eb2dc160",
+    "id": "5d00e80c-edee-4f32-9ba6-6a1d977787c5",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_Paddle",
